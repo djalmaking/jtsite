@@ -1,0 +1,15 @@
+
+    div.goog-te-gadget-simple
+	{ 
+	border-radius: 5px; background-color: transparent; }    
+    a.goog-te-menu-value > span{ text-decoration: none;}
+    a.goog-te-menu-value > span{ color: #FFFFFF;}
+	a.goog-te-menu-value > span{ font-size: 12px;}
+    a.goog-te-menu-value:hover span
+	{
+    color:#e83e8c;}
+    .goog-te-gadget-icon{display:none;
+	}
+
+.goog-te-gadget {
+  font-family: Roboto, 'Open Sans', sans-serif!important;}
